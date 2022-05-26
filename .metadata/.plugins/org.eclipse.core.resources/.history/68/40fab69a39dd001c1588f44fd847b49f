@@ -1,0 +1,5 @@
+package com.equipeUniasselvi.HelpDesk.config;
+
+public class WebSecurityConfig {
+
+}
